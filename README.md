@@ -1,1 +1,1 @@
-This project is devloped by shridhar and team
+This project is devloped by Ecommerce Team
