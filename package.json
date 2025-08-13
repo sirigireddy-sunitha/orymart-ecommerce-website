@@ -1,5 +1,6 @@
 {
-  "name": "vite_react_shadcn_ts",
+  "name": "orymart-ecommerce-website",
+  "homepage": "https://sirigireddy-sunitha.github.io/orymart-ecommerce-website",
   "private": true,
   "version": "0.0.0",
   "type": "module",
